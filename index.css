@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Drop Down Menu Design</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+	<div class="menubar">
+	<ul>
+		<li class="active"><a href="index.html"><i class="fa fa-fighter-jet" aria-hidden="true"></i> AOJ </a>
+
+
+
+		</li>
+		<li><a href="aoj.html"><i class="fa fa-fire" aria-hidden="true"></i> Vision 2020 </a>
+			<div class="submenu1">
+				<ul>
+					<li><a href="#">Model Church</a></li>
+					<li><a href="#">Operation Ecclatia</a></li>
+					<li><a href="#">Jerimiah 1:10</a></li>
+					<li><a href="#">Blow The Trumpet</a> </li>
+					<li><a href="#">Inherit the Land</a></li>
+
+				</ul>
+
+			</div>	
+
+
+
+		</li>
+		<li><a href="../giftschool/index.html"><i class="fa fa-graduation-cap" aria-hidden="true"></i> KHRDC Training </a>
+
+
+		</li>
+		<li><a href="beryl.html"><i class="fa fa-bullhorn" aria-hidden="true"></i>Announcement</a>
+
+
+		</li>
+		<li><a href="wheel.html"> <i class="fa fa-bolt" aria-hidden="true"></i>Message </a>
+
+
+		</li>
+		<Li><a href="tcm.html"><i class="fa fa-users" aria-hidden="true"></i>Troop Church</a>
+
+
+		</Li>
+		<li><a href="https://dracah.blogspot.com/2020/04/let-your-wedding-stages-be-like-funeral.html"><i class="fa fa-podcast" aria-hidden="true"></i> Blog </a><br>
+
+
+		</li>
+		<li><a href="aojinfo.html"><i class="fa fa-info-circle" aria-hidden="true"></i> AOJ Info</a>
+
+
+		</li>
+		<li><a href="#"><i class="fa fa-sign-in" aria-hidden="true"></i> AOJ Registration</a>
+
+
+		</li>
+	</ul>
+	</div>
+
+</body>
+</html>
